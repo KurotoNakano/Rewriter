@@ -1,0 +1,6 @@
+C:\Users\gursk\source\repos\ReWriterTextLab\ReWriterTextLab\bin\Debug\ReWriterTextLab.exe.config
+C:\Users\gursk\source\repos\ReWriterTextLab\ReWriterTextLab\bin\Debug\ReWriterTextLab.exe
+C:\Users\gursk\source\repos\ReWriterTextLab\ReWriterTextLab\bin\Debug\ReWriterTextLab.pdb
+C:\Users\gursk\source\repos\ReWriterTextLab\ReWriterTextLab\obj\Debug\ReWriterTextLab.csproj.CoreCompileInputs.cache
+C:\Users\gursk\source\repos\ReWriterTextLab\ReWriterTextLab\obj\Debug\ReWriterTextLab.exe
+C:\Users\gursk\source\repos\ReWriterTextLab\ReWriterTextLab\obj\Debug\ReWriterTextLab.pdb
